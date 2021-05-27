@@ -1,0 +1,15 @@
+D:\ТИ\LAB4\LAB4\bin\Debug\LAB4.exe.config
+D:\ТИ\LAB4\LAB4\bin\Debug\LAB4.exe
+D:\ТИ\LAB4\LAB4\bin\Debug\LAB4.pdb
+D:\ТИ\LAB4\LAB4\obj\Debug\LAB4.csprojAssemblyReference.cache
+D:\ТИ\LAB4\LAB4\obj\Debug\MainWindow.g.cs
+D:\ТИ\LAB4\LAB4\obj\Debug\App.g.cs
+D:\ТИ\LAB4\LAB4\obj\Debug\LAB4_MarkupCompile.cache
+D:\ТИ\LAB4\LAB4\obj\Debug\LAB4_MarkupCompile.lref
+D:\ТИ\LAB4\LAB4\obj\Debug\MainWindow.baml
+D:\ТИ\LAB4\LAB4\obj\Debug\LAB4.g.resources
+D:\ТИ\LAB4\LAB4\obj\Debug\LAB4.Properties.Resources.resources
+D:\ТИ\LAB4\LAB4\obj\Debug\LAB4.csproj.GenerateResource.cache
+D:\ТИ\LAB4\LAB4\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+D:\ТИ\LAB4\LAB4\obj\Debug\LAB4.exe
+D:\ТИ\LAB4\LAB4\obj\Debug\LAB4.pdb
